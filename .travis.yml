@@ -37,7 +37,22 @@ r_packages:
   - tidyverse
 
   - kableExtra
-
+  
+  - rmarkdown
+  
+  - kernlab
+  
+  - ggplot
+  
+  - lattice
+  
+  - caret
+  
+  - plotROC
+  
+  - shinythemes
+ 
+  - plotly
   
 
 script:

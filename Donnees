@@ -1,2 +1,0 @@
-DONNEE=read.table("C:/Users/farid/Desktop/Cours M2 semestre 1/SVM/creditcard.csv",sep=";" ,header=T) 
-saveRDS(DONNEE,"DONNEE.rds")

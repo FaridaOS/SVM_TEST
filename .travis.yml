@@ -42,7 +42,7 @@ r_packages:
   
   - kernlab
   
-  - ggplot
+  - ggplot2
   
   - lattice
   

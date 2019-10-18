@@ -32,7 +32,7 @@ attach(data)
 attach(test) 
 
 install.packages("kernlab")
-install.packages("ggplot")
+install.packages("ggplot2")
 install.packages("lattice")
 install.packages("caret")
 install.packages("plotROC")
